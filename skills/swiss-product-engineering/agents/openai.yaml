@@ -1,0 +1,4 @@
+interface:
+  display_name: "瑞士极简产品工程"
+  short_description: "以瑞士网格与 Apple 交互，贯通控件、布局、前后端、测试及隔离交付"
+  default_prompt: "使用 $swiss-product-engineering，按当前项目需求设计并实现紧凑、克制、真实可用的功能，分别验证交互、布局与交付边界。"
