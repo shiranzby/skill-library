@@ -11,6 +11,15 @@ BeginDraw -> 按同一DIP坐标布局/绘制 -> EndDraw检查
 窗口退出/闲置释放 -> Drop明确拥有的缓存
 ```
 
+若用 Rust `thread_local!` 缓存 Direct2D 的 COM 资源，应在窗口线程的正常退出路径显式清空缓存，再结束线程。不要仅依赖进程退出时的 TLS 析构；这时 Windows 已可能进入线程/图形运行时清理。一次桌面应用对照中，正常退出与恢复后退出均在晚期清理返回异常，提前 `take()`/`drop()` 后两条路径均正常结束。这个结果支持资源释放顺序的修复，不代表所有退出异常都有同一原因。
+
+```rust
+// 消息循环结束、窗口停止绘制后，在原 UI 线程调用。
+fn release_renderer() {
+    PAINTER.with(|cell| drop(cell.borrow_mut().take()));
+}
+```
+
 文字使用DirectWrite时，布局和命中应引用同一文本、字体、locale与宽度约束。不要拿GDI测量后让DirectWrite独立换行，再用固定字符宽度定位光标。
 
 ## HDC目标示例
