@@ -1,0 +1,1737 @@
+{
+  "snapshot_date": "2026-11-01",
+  "scope": "173 official HIG DocC page text snapshots, including all platform sections; linked SDK pages and media viewing excluded",
+  "review": "A 86 pages re-read in two 43-page passes; B 74 pages read by agent and final 13 completed by primary agent. Earlier incomplete-reading claims withdrawn.",
+  "pages": [
+    {
+      "partition": "a",
+      "slug": "accessibility",
+      "title": "Accessibility",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/accessibility",
+      "text_sha256": "f60d429457d3c55981c3d06249afccad7b365cf69de2be61d197626bae34aadc",
+      "text_lines": 293,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "activity-rings",
+      "title": "Activity rings",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/activity-rings",
+      "text_sha256": "3c74f7e582a0c80f09b444bd3768463e5678d33ada5c8db158c4867f0ca46e9c",
+      "text_lines": 105,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "activity-views",
+      "title": "Activity views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/activity-views",
+      "text_sha256": "57200b68901ae1c70ea36ca619dac709ae2cee327a66a674790e18656fccc02e",
+      "text_lines": 93,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "airplay",
+      "title": "AirPlay",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/airplay",
+      "text_sha256": "af3350286088919935c58eecdabe39e4d3df56cb8318c8b53eb9031927c52e49",
+      "text_lines": 137,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "always-on",
+      "title": "Always On",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/always-on",
+      "text_sha256": "a66449d99e07ead4ad44602bf68f636256cd0a19f796acdcc589c0b76293198b",
+      "text_lines": 70,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "app-clips",
+      "title": "App Clips",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/app-clips",
+      "text_sha256": "5472baad0e361a167bded1a0129451bcb3096eaf2fda33c5ccdef63864260de5",
+      "text_lines": 382,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "apple-in-app-purchase",
+      "title": "Apple In-App Purchase",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/apple-in-app-purchase",
+      "text_sha256": "d836c06ec7fa1dcee7e6eef67d315683ef11b0ff5d9bb3c88f59a4c3cea0aee1",
+      "text_lines": 258,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "apple-pencil-and-scribble",
+      "title": "Apple Pencil and Scribble",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/apple-pencil-and-scribble",
+      "text_sha256": "202c185b43fddc4d1b7390d7b9aa28fe3a55fb6d8dbff713eb25afccef8d60cf",
+      "text_lines": 176,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "augmented-reality",
+      "title": "Augmented reality",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/augmented-reality",
+      "text_sha256": "2190e2e632477951ca13d540592abd7d6cdcae45db638874fa108be6b9a61cbe",
+      "text_lines": 287,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "buttons",
+      "title": "Buttons",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/buttons",
+      "text_sha256": "57aacd9513ee3ad5baa52dd58914e11ae42c7462a869685f927d30006b253780",
+      "text_lines": 260,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "charts",
+      "title": "Charts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/charts",
+      "text_sha256": "551181be2dd1d9c1a2371bed653052f9d7362b1f05836044a1616329c15d81e4",
+      "text_lines": 182,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "collaboration-and-sharing",
+      "title": "Collaboration and sharing",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/collaboration-and-sharing",
+      "text_sha256": "45e8641cdf52e186a6be261e90ed817d66ee97c53401effe88b668a66be4b8c5",
+      "text_lines": 102,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "collections",
+      "title": "Collections",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/collections",
+      "text_sha256": "4e9f32084a010b6a5781c862a9f88b79b305f5eec380bf4cb47b4db92c757cf5",
+      "text_lines": 60,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "color-wells",
+      "title": "Color wells",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/color-wells",
+      "text_sha256": "ba07e71fe05f3137b30676172c1be8347ff3092d83c0409fae66541d0b900f32",
+      "text_lines": 54,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "column-views",
+      "title": "Column views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/column-views",
+      "text_sha256": "7551ec6547bbcea70818a4613144a24dfb42e2a1a1230d115b1f135458baa052",
+      "text_lines": 54,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "controls",
+      "title": "Controls",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/controls",
+      "text_sha256": "114b7dfaa92c096156b1608fe7c874584d9acf9486ce8c37424bcc9ae23a349f",
+      "text_lines": 130,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "dark-mode",
+      "title": "Dark Mode",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/dark-mode",
+      "text_sha256": "f24ed2d9670b04701e2279e1143e895969f661d8ee84be2d8ef3e00891e5f3f8",
+      "text_lines": 150,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "designing-for-games",
+      "title": "Designing for games",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-games",
+      "text_sha256": "99a45bf47d56d93fbf93ae45e01e1c86d20d72578f72585e25b1f6595837fceb",
+      "text_lines": 194,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "designing-for-ios",
+      "title": "Designing for iOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-ios",
+      "text_sha256": "bd44212642a1da8f8bb6b0b0ca2bc797ce7bb140e145ab1c33afcbc29ee04f91",
+      "text_lines": 101,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "digital-crown",
+      "title": "Digital Crown",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/digital-crown",
+      "text_sha256": "37f7b3d80b09c7e90a3a6c1f44e1c1b05d4e40d2a89cdb8011456debca2bc890",
+      "text_lines": 90,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "drag-and-drop",
+      "title": "Drag and drop",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/drag-and-drop",
+      "text_sha256": "5500b2b517aead493aa3eaf82380f3108ffa7bf782655eb4a7ca8c041edd344b",
+      "text_lines": 136,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "entering-data",
+      "title": "Entering data",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/entering-data",
+      "text_sha256": "c005a2e837879241521c7e0eb57aac8b916d78710713d0d3e9645685e650bcf4",
+      "text_lines": 77,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "eyes",
+      "title": "Eyes",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/eyes",
+      "text_sha256": "91e78843d5c7f0c563be3e6a1af2e530614956158d99529e91a72654aa08e769",
+      "text_lines": 125,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "feedback",
+      "title": "Feedback",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/feedback",
+      "text_sha256": "f823385038847a2840d8c560a3fb2eec1cbc8df9039620519d749dd6ff587bcf",
+      "text_lines": 75,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "foundations",
+      "title": "Foundations",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/foundations",
+      "text_sha256": "79f0a5d4d25b68ecf241da9f74c8336608d3d92c1e84e0bc0536599342ccd8b0",
+      "text_lines": 168,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "game-center",
+      "title": "Game Center",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/game-center",
+      "text_sha256": "fbe02355ba44bfd9b0865aa04577b689b1d9fdefb8f5d58d45b4a47d9a55471b",
+      "text_lines": 327,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "game-controls",
+      "title": "Game controls",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/game-controls",
+      "text_sha256": "3f9588c3c331567092ee27f9f2bfdf916e639659dda9f7e76aa808883389b689",
+      "text_lines": 157,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "generative-ai",
+      "title": "Generative AI",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/generative-ai",
+      "text_sha256": "cea3e62cbdb6babb3f77900701fafc951350c55cbd2be7c1a80fcdc2d753915b",
+      "text_lines": 131,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "gestures",
+      "title": "Gestures",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/gestures",
+      "text_sha256": "e697f626313d0d0897fc2cfd80e4087520b7066ee3e6aa5564d408b7647d1800",
+      "text_lines": 243,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "going-full-screen",
+      "title": "Going full screen",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/going-full-screen",
+      "text_sha256": "bc7f23a0a26aa0707f278d5b604725245c409beab1948c11d56d57923c86b6e7",
+      "text_lines": 94,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "gyro-and-accelerometer",
+      "title": "Gyroscope and accelerometer",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/gyro-and-accelerometer",
+      "text_sha256": "ba7fce0d2407ff842f23b806a419bb1970ea419cc0593644c5d264c68b9f653c",
+      "text_lines": 52,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "home-screen-quick-actions",
+      "title": "Home Screen quick actions",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/home-screen-quick-actions",
+      "text_sha256": "259e474292e9292f9ca3b1573e002653f5983a2dd29a782da2c586d7f5e67064",
+      "text_lines": 54,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "icloud",
+      "title": "iCloud",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/icloud",
+      "text_sha256": "1ba495d1ae9eb602166023a277825e1f5bb90d469bd5c11b7f37a243b0f40e0a",
+      "text_lines": 64,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "id-verifier",
+      "title": "ID Verifier",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/id-verifier",
+      "text_sha256": "6164484fae17bebae91608422d77b5c1ce5f8f73ca0702bce6716bd11f31f20f",
+      "text_lines": 77,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "image-views",
+      "title": "Image views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/image-views",
+      "text_sha256": "fabb47345df9da7d8a138e1fecb0756d8066970f8c15465fa214027b1ce9fba3",
+      "text_lines": 94,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "image-wells",
+      "title": "Image wells",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/image-wells",
+      "text_sha256": "9fccaa78cca480feee8b40b1b828e389d068561b7eee4b6ffa93973906d65c12",
+      "text_lines": 46,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "images",
+      "title": "Images",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/images",
+      "text_sha256": "b2b48f0b346d287c1c9d351980f94b3a601c2d2dd25fb60309d3a527c5976949",
+      "text_lines": 180,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "imessage-apps-and-stickers",
+      "title": "iMessage apps and stickers",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/imessage-apps-and-stickers",
+      "text_sha256": "6f8980f3de1bf7eaa2f193e30d48eff5f45ea1c87f0ff6c51fe0625a7a7dcb21",
+      "text_lines": 117,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "inputs",
+      "title": "Inputs",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/inputs",
+      "text_sha256": "b7f83b7ba8f7eb0fc2ed96ed8cb986be0009c2394f883c3f4e44c35d67a8b1cf",
+      "text_lines": 128,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "layout-and-organization",
+      "title": "Layout and organization",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/layout-and-organization",
+      "text_sha256": "e8fec1a73976e84671f1a7289b27e3ba8203e4067ec5ee7c01a35a62c6600b32",
+      "text_lines": 102,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "lists-and-tables",
+      "title": "Lists and tables",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/lists-and-tables",
+      "text_sha256": "57fa31afa883cd32ab7b083e161d215d7c307273657e2f71d02f4c8402d654bf",
+      "text_lines": 115,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "live-activities",
+      "title": "Live Activities",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/live-activities",
+      "text_sha256": "0c164a0443fc0bff4f03b304e0564980109ba8047e0362f54b21e6f74c4c6639",
+      "text_lines": 436,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "live-photos",
+      "title": "Live Photos",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/live-photos",
+      "text_sha256": "6f4266f51069ae0573d903879d9c6a494588c6e5a56cb705e70f58547417e701",
+      "text_lines": 72,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "loading",
+      "title": "Loading",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/loading",
+      "text_sha256": "36ac9c0a81f71aca13ba6002d9af91a0c31a6943c52810fa6aeb41b0e4094b63",
+      "text_lines": 71,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "machine-learning",
+      "title": "Machine learning",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/machine-learning",
+      "text_sha256": "5c617d1087428fcb87b828a184014799e9fe517dda83d2c6497312710e235f8c",
+      "text_lines": 336,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "managing-notifications",
+      "title": "Managing notifications",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/managing-notifications",
+      "text_sha256": "58e8820a17e274cd3feb5e9a3f01094b20156a2a234d91daed4abf998c08ad49",
+      "text_lines": 99,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "maps",
+      "title": "Maps",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/maps",
+      "text_sha256": "0fe140c56937289684792eac455ca7d96478e7f0a8037fbfba7a7d5737bbe425",
+      "text_lines": 213,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "menus",
+      "title": "Menus",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/menus",
+      "text_sha256": "0ccdea20f957cab3e552af42969e890aeadb66ea13250212d25a3fcbd3bfe7c7",
+      "text_lines": 171,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "menus-and-actions",
+      "title": "Menus and actions",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/menus-and-actions",
+      "text_sha256": "624e54000ecf0151472b037d92b7fc245e40e5e608635007323154e466f7ad53",
+      "text_lines": 118,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "multitasking",
+      "title": "Multitasking",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/multitasking",
+      "text_sha256": "6d47ce61b0d6bf5a1b7aaac1510bc1352f98be04526336b8095bd3bdb4f515c1",
+      "text_lines": 131,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "notifications",
+      "title": "Notifications",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/notifications",
+      "text_sha256": "88e33261c4820f2e1fa3d3c8108d884bfed5f759c516f41db6c4ca4c163cc0f7",
+      "text_lines": 160,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "offering-help",
+      "title": "Offering help",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/offering-help",
+      "text_sha256": "345895bfb41c7f66662a8fb4afa578bffe6749f484dc1457988ea38c279830c0",
+      "text_lines": 137,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "onboarding",
+      "title": "Onboarding",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/onboarding",
+      "text_sha256": "62d5e3b4b5dfbc28177a1a9be4c17362d468929419bea1de485c0731b8fb46c3",
+      "text_lines": 81,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "outline-views",
+      "title": "Outline views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/outline-views",
+      "text_sha256": "904e3a8198440420526e7a0ffecd44bfe4f0ef06671e35d8c26faada535b9dd6",
+      "text_lines": 78,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "page-controls",
+      "title": "Page controls",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/page-controls",
+      "text_sha256": "12525ffc401ffe997f9f9d097efe37d987b036a81128e41c11536d2de264325d",
+      "text_lines": 129,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "panels",
+      "title": "Panels",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/panels",
+      "text_sha256": "b7d3c476fbe2aede6aadc0e91fb5e6df361d940f839d17e789ea6ec3702ba581",
+      "text_lines": 82,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "playing-audio",
+      "title": "Playing audio",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-audio",
+      "text_sha256": "af4ebda9f193697557c8fa41e214e9ba54baf13d1e8092df69baa8ab00f6b725",
+      "text_lines": 136,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "playing-video",
+      "title": "Playing video",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-video",
+      "text_sha256": "36a6d5c45fc6d86b1c460403d14f77e80eba5148fdc5c0cce63bc0292086ff87",
+      "text_lines": 194,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "popovers",
+      "title": "Popovers",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/popovers",
+      "text_sha256": "2e454b5b7119ac91a6ecf0ee3407977866a7456302fbc9e0bf10df32e670da76",
+      "text_lines": 92,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "presentation",
+      "title": "Presentation",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/presentation",
+      "text_sha256": "0cb3bc1767c564265330aa92289113681325e495903ecf8b596e72ec6012381e",
+      "text_lines": 86,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "privacy",
+      "title": "Privacy",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/privacy",
+      "text_sha256": "aeb7563b9f8b20595a3c8f911e14ca3e96ea811e6fdb512f017528a2a36ef824",
+      "text_lines": 230,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "ratings-and-reviews",
+      "title": "Ratings and reviews",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews",
+      "text_sha256": "9a19043da6081c38b64c05b1b3ebe833c62394687783d3b7780a13f6a0451c34",
+      "text_lines": 60,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "remotes",
+      "title": "Remotes",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/remotes",
+      "text_sha256": "d216a4d577393567dca6ce5828ff7de185003a2ff610a37ac7c0265edbfd3cc0",
+      "text_lines": 79,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "searching",
+      "title": "Searching",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/searching",
+      "text_sha256": "c71c630ff9e6729d50aa5af2fdc5d4342f12ebbced1b3e6607692e1818d12110",
+      "text_lines": 77,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "segmented-controls",
+      "title": "Segmented controls",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/segmented-controls",
+      "text_sha256": "9c1e29a7fbb7a8b61dbc0e080800ce936d16c54b9562b982858cdf5a41424456",
+      "text_lines": 110,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "settings",
+      "title": "Settings",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/settings",
+      "text_sha256": "568672f97016f69ae3a5951975ece8d39ee4c4989ac9101eafbc5581f80f15d0",
+      "text_lines": 94,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "sheets",
+      "title": "Sheets",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sheets",
+      "text_sha256": "8dcd77fa37bfbf2702da6309feb96c182eede5405f6eedac9504c2dac4beb806",
+      "text_lines": 202,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "sign-in-with-apple",
+      "title": "Sign in with Apple",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple",
+      "text_sha256": "9a727c522065bda9c85ace21cdb7d81658245afb747f1462b33ecdb697adb208",
+      "text_lines": 300,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "spatial-layout",
+      "title": "Spatial layout",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/spatial-layout",
+      "text_sha256": "c2db3bd4d950e5453dc3891074a7e2c2f7f54256e3df6b2f37964b3477367ddd",
+      "text_lines": 131,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "split-views",
+      "title": "Split views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/split-views",
+      "text_sha256": "347b1c786648d1bdc6200ee406557da718f6bc00d00e98f3f94c525dc0d671dd",
+      "text_lines": 122,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "status",
+      "title": "Status",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/status",
+      "text_sha256": "3594a7d8fea1bffaa12dbc94e1c4d580879b3b6ffd1447423f214d9692bcefc8",
+      "text_lines": 54,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "status-bars",
+      "title": "Status bars",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/status-bars",
+      "text_sha256": "545a63db437277323fe61ca64b688c00ed0b78de30651210a5d7f14317a76a01",
+      "text_lines": 50,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "steppers",
+      "title": "Steppers",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/steppers",
+      "text_sha256": "1486ba212713b03d72d4301692d2253db011063acc0b346bd508e09026211f45",
+      "text_lines": 52,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "system-experiences",
+      "title": "System experiences",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/system-experiences",
+      "text_sha256": "d253052e01c663446e367d0deeaefeab68f8144c4f4296e1856b92a7f1122c88",
+      "text_lines": 102,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "tab-bars",
+      "title": "Tab bars",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/tab-bars",
+      "text_sha256": "cd4b61d03ac8d708c44fb4a1ac6336bc5e5c111a1c8db6ff949eb6eda08a794b",
+      "text_lines": 176,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "tab-views",
+      "title": "Tab views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/tab-views",
+      "text_sha256": "5867146fb1a3b315a1fd4768bdca7b2031ccd6af9aba1f975b806cf28452e87d",
+      "text_lines": 82,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "tap-to-pay-on-iphone",
+      "title": "Tap to Pay on iPhone",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/tap-to-pay-on-iphone",
+      "text_sha256": "65db1e773d7d526d7f1c04918caf8c95fd1fd8cbc91b41fb447d2e2b9176e21e",
+      "text_lines": 208,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "technologies",
+      "title": "Technologies",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/technologies",
+      "text_sha256": "a7ba836778fd05a897707106ce9e060ebd40f66e3bf39db2ef0f1b3faeb03290",
+      "text_lines": 256,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "text-fields",
+      "title": "Text fields",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/text-fields",
+      "text_sha256": "000acfecb62b896d0df64895317d52499c7bfd087cc10706ad9d186853f7a4c3",
+      "text_lines": 106,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "the-menu-bar",
+      "title": "The menu bar",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/the-menu-bar",
+      "text_sha256": "ea612c2f1d6affbef46cb62a8b90a3f44c2c71b5d22347777e288b7b22c1ef18",
+      "text_lines": 299,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "toggles",
+      "title": "Toggles",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/toggles",
+      "text_sha256": "3c0da9797bbfe9e117c75ee6db4191082d2eb01f94b3f517f83c3a3e2bfce269",
+      "text_lines": 153,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "token-fields",
+      "title": "Token fields",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/token-fields",
+      "text_sha256": "3af8cb5f09c7c3a42257cc7d78aaa3b5b5ce96ec6c5d646b25eb540de81a3e69",
+      "text_lines": 60,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "watch-faces",
+      "title": "Watch faces",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/watch-faces",
+      "text_sha256": "98fd8d707fb1aedae189272db795104152c6a0dc5f0cc481894bd132e0cb5d6b",
+      "text_lines": 52,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "web-views",
+      "title": "Web views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/web-views",
+      "text_sha256": "a1a8d6d1de8888fa372674333d0410504d5fbecc3a3397bd7ad2d659235cf629",
+      "text_lines": 50,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "widgets",
+      "title": "Widgets",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/widgets",
+      "text_sha256": "2fdc79ccfdbcd3c762bf92ac1c88f019d7fe2796bee65932990052d0ebe497b6",
+      "text_lines": 524,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "a",
+      "slug": "writing",
+      "title": "Writing",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/writing",
+      "text_sha256": "7d69295ef1b1cf5d6483a526191e4235d7898ab96964a3bfa8e9198a8ff71b0e",
+      "text_lines": 109,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "action-button",
+      "title": "Action button",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/action-button",
+      "text_sha256": "26e513eda3fe924fe161f571c2fe453afa77e28f1e7901b7925fb7916c265922",
+      "text_lines": 73,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "action-sheets",
+      "title": "Action sheets",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/action-sheets",
+      "text_sha256": "4bfa8dd52d806b4cf0e177e39e39695e1e40bf5add817fc2c4cac1a7eb93a67a",
+      "text_lines": 88,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "alerts",
+      "title": "Alerts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/alerts",
+      "text_sha256": "2a60672dbdcf6b6f78eda1825052b43cf9e692dcb64466542c6842a7e8fb5dfa",
+      "text_lines": 162,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "app-icons",
+      "title": "App icons",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/app-icons",
+      "text_sha256": "9ee5cdaa81a5767758b8f792837bb57943e64003307d11e40ec2904ac0175595",
+      "text_lines": 219,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "app-shortcuts",
+      "title": "App Shortcuts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/app-shortcuts",
+      "text_sha256": "a61739bac90437080d4b7be198493e0863a84fa14fb8708f73027221238e0c94",
+      "text_lines": 117,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "apple-pay",
+      "title": "Apple Pay",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/apple-pay",
+      "text_sha256": "3997eba950932e31b12207ebff4ab3e0f77c04490fccbd89a4f28d49863416c9",
+      "text_lines": 473,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "boxes",
+      "title": "Boxes",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/boxes",
+      "text_sha256": "9a4070a921109d8efdba4d6dec4cc5fb057636a6f2678796e045479555be0060",
+      "text_lines": 60,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "branding",
+      "title": "Branding",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/branding",
+      "text_sha256": "33cd5553c29a814deb9651815ee41535906b57ac54372631dc3cba98de59dae7",
+      "text_lines": 80,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "camera-control",
+      "title": "Camera Control",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/camera-control",
+      "text_sha256": "dab732da6b1aa76934fd179fc47f536784b23ec499ff4721b528315bda2150d6",
+      "text_lines": 135,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "carekit",
+      "title": "CareKit",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/carekit",
+      "text_sha256": "c86a63d1edd744ed984facf739987828132881e76bd418660f66a8c46e0bcf88",
+      "text_lines": 236,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "carplay",
+      "title": "CarPlay",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/carplay",
+      "text_sha256": "877312d1ed9eb6c8111f72e5ce74b7b95e4f8fa79847ce5f07f19794f8a78042",
+      "text_lines": 135,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "charting-data",
+      "title": "Charting data",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/charting-data",
+      "text_sha256": "5ae8e9424b7cb31466c846fe77d529df6cfa36f6e9edf0d5322c2b5e45078e42",
+      "text_lines": 92,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "color",
+      "title": "Color",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/color",
+      "text_sha256": "f3d6f14e25e06cf76f411e12d1874b01f3d3a81a95c2be8f8aa3db1daa139401",
+      "text_lines": 295,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "combo-boxes",
+      "title": "Combo boxes",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/combo-boxes",
+      "text_sha256": "f370885762719baaecff20994b9296f0251ae9f124f577dd3465abfbf2787416",
+      "text_lines": 52,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "complications",
+      "title": "Complications",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/complications",
+      "text_sha256": "ff9188461adef3e0d88986ae60f17cca770064af35ba60b833be8f41b6e6a325",
+      "text_lines": 489,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "components",
+      "title": "Components",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/components",
+      "text_sha256": "9ba5ecbc79b7bd41971120dc7c68551717a4e1b194241362474237bfb6d63583",
+      "text_lines": 56,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "content",
+      "title": "Content",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/content",
+      "text_sha256": "aea9e1fd5aa25459ec49cadbd93dd1ffbef35a27a3b5c44bf9761e3a7dbcf39b",
+      "text_lines": 54,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "context-menus",
+      "title": "Context menus",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/context-menus",
+      "text_sha256": "542f851d2adff684d66261a4860b7ff0c69b9c52b8e322b645cabd2a608f0f91",
+      "text_lines": 112,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "design-principles",
+      "title": "Design principles",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/design-principles",
+      "text_sha256": "48ce6b15f299e1918ff65e53d374d503e952aaac6ef1fab03c9254ed3883bbe4",
+      "text_lines": 204,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "designing-for-ipados",
+      "title": "Designing for iPadOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-ipados",
+      "text_sha256": "abb6f2829bb6edbd18c54fc9e05c5f0281d625dd6e7a11c41fbdce6061263b34",
+      "text_lines": 67,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "designing-for-iphone-duo",
+      "title": "Designing for iPhone Duo",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-iphone-duo",
+      "text_sha256": "b34ad4ceaa843a882ef7b4ca8f94739efa23e127acc4395d16c3caa50d48eb37",
+      "text_lines": 241,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "designing-for-macos",
+      "title": "Designing for macOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-macos",
+      "text_sha256": "f8de11af11523bca51d1ed042a790947916be115c36e47cbc627000584a21e57",
+      "text_lines": 75,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "designing-for-tvos",
+      "title": "Designing for tvOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-tvos",
+      "text_sha256": "dff024a4c6a4bf112db06a144e271d34afe675435c99079fed9dd4b7aae09feb",
+      "text_lines": 68,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "designing-for-visionos",
+      "title": "Designing for visionOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+      "text_sha256": "f5f7b515b4101dc13feb35e6820a05f47f2a47bd928d0932bd4ed542981a38ed",
+      "text_lines": 88,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "designing-for-watchos",
+      "title": "Designing for watchOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-watchos",
+      "text_sha256": "0c3f0971380ce5c4b0bfac237b21f433a5681ea4fb6d2c33a2d65657f37e4093",
+      "text_lines": 71,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "digit-entry-views",
+      "title": "Digit entry views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/digit-entry-views",
+      "text_sha256": "2d72f08c6a4d998b51d721da2d8ebeba5342013f4babb0ad0bc5c65feb45d1b4",
+      "text_lines": 44,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "disclosure-controls",
+      "title": "Disclosure controls",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/disclosure-controls",
+      "text_sha256": "4019027c814d4306a8b97445b78a28b5e4098180f60b4e3de7b85cc2e4901c58",
+      "text_lines": 96,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "dock-menus",
+      "title": "Dock menus",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/dock-menus",
+      "text_sha256": "918fa23148bea7418650d2f724f870e7b4e437ae11672c6efa0936b29867e5c5",
+      "text_lines": 50,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "edit-menus",
+      "title": "Edit menus",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/edit-menus",
+      "text_sha256": "98fcc4c3572b38bb2a186bc54bd30c70b42d2cdc3f6fd8ecd2370850eef342f5",
+      "text_lines": 94,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "file-management",
+      "title": "File management",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/file-management",
+      "text_sha256": "bfb9e96fd68549cf71e8df7eaa069b1abe0da8d7e305ebd6d0d1fb158dab35d2",
+      "text_lines": 137,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "focus-and-selection",
+      "title": "Focus and selection",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/focus-and-selection",
+      "text_sha256": "314d5e818d1fc574bcf187b6ab8fb42c20256b39f116cedde5c733cf6c6fee90",
+      "text_lines": 126,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "gauges",
+      "title": "Gauges",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/gauges",
+      "text_sha256": "7f8817f8def4abcfc11cb8c98297d7f4982c22768b91d5dd96969364e8664691",
+      "text_lines": 88,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "getting-started",
+      "title": "Getting started",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/getting-started",
+      "text_sha256": "aecf84a4daf39be47fd89b10df1943440540da8174cd3992b730142fe1300575",
+      "text_lines": 100,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "healthkit",
+      "title": "HealthKit",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/healthkit",
+      "text_sha256": "3cc921092090a7c95e8540408e237ef479e422bf4c37a4fcbcfdaa2bf0770265",
+      "text_lines": 132,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "homekit",
+      "title": "HomeKit",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/homekit",
+      "text_sha256": "18cda711cc23aeee1921349360931b9bd19d520fb897f7b6384e834fc5e78b80",
+      "text_lines": 347,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "human-interface-guidelines",
+      "title": "Human Interface Guidelines",
+      "url": "https://developer.apple.com/design/human-interface-guidelines",
+      "text_sha256": "580e6d96f2a76c5ee99d08c31c2c01516ff0c6c6589c7fe9d0742eb2a84b2fab",
+      "text_lines": 119,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "icons",
+      "title": "Icons",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/icons",
+      "text_sha256": "9af70824e8aedec262a0a162e467f524addaea11ebd4d694602ac5f79a49eccf",
+      "text_lines": 286,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "immersive-experiences",
+      "title": "Immersive experiences",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/immersive-experiences",
+      "text_sha256": "cd283531b2e49d96f58bb0318a21f4d3bc570bde281e0361249033875fd01f70",
+      "text_lines": 171,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "inclusion",
+      "title": "Inclusion",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/inclusion",
+      "text_sha256": "86e21bf58327d892fd84238dc09033e43132027fabc635657d037ffd50397069",
+      "text_lines": 178,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "keyboards",
+      "title": "Keyboards",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/keyboards",
+      "text_sha256": "0c50926437e70cbadbb8d87a5cbf9828243c58cdc61e2ebe909cad1f14f4433e",
+      "text_lines": 238,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "labels",
+      "title": "Labels",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/labels",
+      "text_sha256": "1067c3f179e63b530f17be9dd8840f5529b9f8cf19bbc2676f229a840f13164f",
+      "text_lines": 99,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "launching",
+      "title": "Launching",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/launching",
+      "text_sha256": "63e64887a20cc21dd8e84a90ddfffea54f8272a75a6099c0dbd67ad2d98d9c54",
+      "text_lines": 91,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "layout",
+      "title": "Layout",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/layout",
+      "text_sha256": "f95fdb750579c9ea621a5e94e33b2ac5ba1bc4a92031b82a4ae96c09db2d7aa8",
+      "text_lines": 316,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "live-viewing-apps",
+      "title": "Live-viewing apps",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/live-viewing-apps",
+      "text_sha256": "e0803766dfd48436e034fabfa7ca46cc503eef1a46ba4d5f9fb563f516e880ce",
+      "text_lines": 85,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "lockups",
+      "title": "Lockups",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/lockups",
+      "text_sha256": "2354992a7fc99797ed557abbeffdda02f836414ea9d41be76b87164268f8a908",
+      "text_lines": 90,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "mac-catalyst",
+      "title": "Mac Catalyst",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/mac-catalyst",
+      "text_sha256": "94a651e5f87b5338edc072f6e774a866fcd7ba2e4d21c5e1ac0eae21aeab5fc4",
+      "text_lines": 186,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "managing-accounts",
+      "title": "Managing accounts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/managing-accounts",
+      "text_sha256": "bb6187ee97269612f8923d8ff4aab816109548554f49761633b8be9f9371f010",
+      "text_lines": 111,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "materials",
+      "title": "Materials",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/materials",
+      "text_sha256": "c326fbf7fbb2273324a86ddabed304a0bf8a8ebec19df82bce55165057d7232e",
+      "text_lines": 241,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "modality",
+      "title": "Modality",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/modality",
+      "text_sha256": "527dc24903baf938aad8495d8424d3f7b59573e3147d98c062c814c1489af512",
+      "text_lines": 88,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "motion",
+      "title": "Motion",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/motion",
+      "text_sha256": "32968d9d893287c57fcf6795ed9bc6c024e692f9cdc7ca5f420ea88eb6571b78",
+      "text_lines": 111,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "navigation-and-search",
+      "title": "Navigation and search",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/navigation-and-search",
+      "text_sha256": "bc5829db1a6779c2a6dc072c4ac36d7a8351f0dbc05acaf3335750372a987090",
+      "text_lines": 62,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "nearby-interactions",
+      "title": "Nearby interactions",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/nearby-interactions",
+      "text_sha256": "4ab664678ed115d9bfff889e1640be4f34fac63339687ba65ae962f01535eb24",
+      "text_lines": 82,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "nfc",
+      "title": "NFC",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/nfc",
+      "text_sha256": "b8c9c7b72a91bb7970f5f5ed7ea1398f110718830bb93b33b53de38d152b7b2b",
+      "text_lines": 63,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "ornaments",
+      "title": "Ornaments",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/ornaments",
+      "text_sha256": "ee222cead2be83ef4069d3751fd9e9ba310bd0bbba42fa884df5a374a64348d0",
+      "text_lines": 68,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "path-controls",
+      "title": "Path controls",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/path-controls",
+      "text_sha256": "9b4aaa275bd29399de01a2ccb047626fa80eab1108503e9fc5a2b940129ca6dc",
+      "text_lines": 56,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "patterns",
+      "title": "Patterns",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/patterns",
+      "text_sha256": "22771d38fb38373102b6de572874abed07c82cf9e4911bb121737e3724713d2b",
+      "text_lines": 224,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "photo-editing",
+      "title": "Photo editing",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/photo-editing",
+      "text_sha256": "df0d9683dd37f70c5f9cc0ff714430c59bf35cb3cd0ec323989febe366030f00",
+      "text_lines": 54,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "pickers",
+      "title": "Pickers",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/pickers",
+      "text_sha256": "de6e0aeb59ba981ad941eb4b1104b352b603ad2c5cb1b403723b7af4102d97de",
+      "text_lines": 138,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "playing-haptics",
+      "title": "Playing haptics",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-haptics",
+      "text_sha256": "35ee037e136ff807d35869f3bba22c840c2286197919bcf6d3362e0258cf0ebd",
+      "text_lines": 232,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "pointing-devices",
+      "title": "Pointing devices",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/pointing-devices",
+      "text_sha256": "2b74b9c3c93d94a3909ca02cd8303167cb80582425eccddb38cb959f1b60344f",
+      "text_lines": 227,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "pop-up-buttons",
+      "title": "Pop-up buttons",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/pop-up-buttons",
+      "text_sha256": "2c7f8a8fe9c314d5538da1715c9dc7b967914ebd38c36f49725d0da418fe5c0a",
+      "text_lines": 81,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "printing",
+      "title": "Printing",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/printing",
+      "text_sha256": "da04d793a3971e69f2f6d36fb4daf0cd2f931f60b097f53c9fc6d52e55df075f",
+      "text_lines": 62,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "progress-indicators",
+      "title": "Progress indicators",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/progress-indicators",
+      "text_sha256": "9a08624577a8a8f353eee7b047f8f9ea150160a399b2692b809197893ea946da",
+      "text_lines": 142,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "pull-down-buttons",
+      "title": "Pull-down buttons",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/pull-down-buttons",
+      "text_sha256": "ef8c4b6f42decb991b50d589379c3928f8756a70db292ee478d4513a2b18eb9b",
+      "text_lines": 86,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "rating-indicators",
+      "title": "Rating indicators",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/rating-indicators",
+      "text_sha256": "d69e802d571f2fe82907b38e72587286af90b9c4ca5f7cb18ce2311c8358c2c1",
+      "text_lines": 50,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "researchkit",
+      "title": "ResearchKit",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/researchkit",
+      "text_sha256": "c00d43023ad180ea0166a48d81c2889357569a6fb0e2647945965ce37a3190d5",
+      "text_lines": 131,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "right-to-left",
+      "title": "Right to left",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/right-to-left",
+      "text_sha256": "ac5ab01ef0b119f02fa67328daa244e4ba6ee184dab35441012c5f50e46684a9",
+      "text_lines": 296,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "scroll-views",
+      "title": "Scroll views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/scroll-views",
+      "text_sha256": "7d12917abc44aa5e7bf572fdfce131458aa5988bc4a56117248cbaf833d71403",
+      "text_lines": 146,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "search-fields",
+      "title": "Search fields",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/search-fields",
+      "text_sha256": "dd2a0ef16777f26b8533495cbb77f6fc28da219e7aa6ee0b9ada3839eb876ee5",
+      "text_lines": 192,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "selection-and-input",
+      "title": "Selection and input",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/selection-and-input",
+      "text_sha256": "3f794c80d00b2374ff45bc506cf193b0d6e56c2c2a6aabe7680282edf5ea6080",
+      "text_lines": 110,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "sf-symbols",
+      "title": "SF Symbols",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sf-symbols",
+      "text_sha256": "671dd1ec67466a7477d2b60c079352f218296514427437dcffd8cbd7e54f2d75",
+      "text_lines": 276,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "shareplay",
+      "title": "SharePlay",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/shareplay",
+      "text_sha256": "8733c70b9cf51b456692872543fdf782abba3f5f4dfb3da7f69bbcbfe8987cc2",
+      "text_lines": 153,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "shazamkit",
+      "title": "ShazamKit",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/shazamkit",
+      "text_sha256": "c8b982a750a887551d2dac09fe6a9187a13e026d6d487464c6b3af73ff82b2e3",
+      "text_lines": 56,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "sidebars",
+      "title": "Sidebars",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sidebars",
+      "text_sha256": "1bba0decae80769f0bbbc3688cc1507d759dd4dc54051a9fa3b3313dcec542c3",
+      "text_lines": 118,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "siri",
+      "title": "Siri",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/siri",
+      "text_sha256": "dce424aacc794cf4e6896a88794f968d023dc13bef46b4b20afda7d63e9ab700",
+      "text_lines": 150,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "sliders",
+      "title": "Sliders",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sliders",
+      "text_sha256": "1eaaeb12f01002e18d2ff22be764823893a655ec4a3eb7b0670f6d87c027a12f",
+      "text_lines": 114,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "snippets",
+      "title": "Snippets",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/snippets",
+      "text_sha256": "08e140251c550e28c7a68c8f630e7405ce3551bba74be3dae0d8be9a0cd9c82e",
+      "text_lines": 98,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "text-views",
+      "title": "Text views",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/text-views",
+      "text_sha256": "a1348e48a89de632b07b1597df8d12613e44f6551282f4af617af2e1d9611351",
+      "text_lines": 68,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "toolbars",
+      "title": "Toolbars",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/toolbars",
+      "text_sha256": "7f8868c4ee0122e6f06b1755094bf2e1555accb98adc004f7e07c0dd078c346f",
+      "text_lines": 275,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "top-shelf",
+      "title": "Top Shelf",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/top-shelf",
+      "text_sha256": "36de426a1ef92d6751c87eea9a9cf240e9d6d4fdb55f78b83724565a1a8ca078",
+      "text_lines": 144,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "typography",
+      "title": "Typography",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/typography",
+      "text_sha256": "46ae0cad99561e5de54f37bb6df17e8b5f8b5331feb5a9f3eeff05b9aa16d090",
+      "text_lines": 1120,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "undo-and-redo",
+      "title": "Undo and redo",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/undo-and-redo",
+      "text_sha256": "c3707576a6c4e475ef3c9e02b24fb8e25e457e1d788152b5d27b49ca47d6d306",
+      "text_lines": 72,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "virtual-keyboards",
+      "title": "Virtual keyboards",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/virtual-keyboards",
+      "text_sha256": "42b18b68cda21d5a616861fe7f6d6630a4e877b7432e0c0dacea38097c81cff5",
+      "text_lines": 177,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "voiceover",
+      "title": "VoiceOver",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/voiceover",
+      "text_sha256": "b5027cf478ffcf92a052c03166819c62d866fa37c7c69f2f2b9858aea3cbf145",
+      "text_lines": 102,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "wallet",
+      "title": "Wallet",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/wallet",
+      "text_sha256": "8b46d07fe0634d07cdf6eecc67f9d129199ca0ad10e0dc80f1b66f745be41100",
+      "text_lines": 538,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "windows",
+      "title": "Windows",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/windows",
+      "text_sha256": "c842217bdd9056350cd3b3db7986e1a195344c8b33162725133d512b0a7e3daa",
+      "text_lines": 184,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    },
+    {
+      "partition": "b",
+      "slug": "workouts",
+      "title": "Workouts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/workouts",
+      "text_sha256": "c4941bd9f8bfca886e6bc49a5c9d5686b63b2740b8dd1910e3808d3d7bc86989",
+      "text_lines": 90,
+      "reading_status": "full_text_reviewed",
+      "media_status": "alternative_text_only"
+    }
+  ]
+}

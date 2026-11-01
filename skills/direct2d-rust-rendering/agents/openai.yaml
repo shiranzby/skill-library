@@ -1,0 +1,7 @@
+interface:
+  display_name: "Rust Direct2D 绘制"
+  short_description: "实现 Direct2D 与 DirectWrite，核对画质、DPI、目标恢复和内存"
+  default_prompt: "使用 $direct2d-rust-rendering，保留项目选定风格，完成当前实现与真实交互、画质和资源验收。"
+
+policy:
+  allow_implicit_invocation: true

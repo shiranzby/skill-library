@@ -1,0 +1,7 @@
+interface:
+  display_name: "Rust Windows 桌面工程"
+  short_description: "管理 Win32、COM、托盘、热键、DPI 与原生资源，按实际证据交付"
+  default_prompt: "使用 $windows-rs-desktop-engineering，保留项目选定风格，完成当前实现与真实交互、画质和资源验收。"
+
+policy:
+  allow_implicit_invocation: true

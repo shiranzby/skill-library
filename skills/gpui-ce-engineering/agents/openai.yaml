@@ -1,0 +1,7 @@
+interface:
+  display_name: "GPUI CE 桌面工程"
+  short_description: "使用 Entity、焦点和虚拟列表构建 GPU 桌面界面，验证输入与占用"
+  default_prompt: "使用 $gpui-ce-engineering，保留项目选定风格，完成当前实现与真实交互、画质和资源验收。"
+
+policy:
+  allow_implicit_invocation: true

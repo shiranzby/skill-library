@@ -1,0 +1,7 @@
+interface:
+  display_name: "WinUI 3 产品设计与开发"
+  short_description: "遵循 Windows Fluent 惯例，贯通控件、代码、持久化与真实交互验收"
+  default_prompt: "使用 $winui3-product-engineering，保留当前 Windows 风格，完成设计、实现与真实交互验收。"
+
+policy:
+  allow_implicit_invocation: true

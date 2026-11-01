@@ -1,0 +1,7 @@
+interface:
+  display_name: "Apple HIG 设计与开发"
+  short_description: "按 Apple 平台路由设计、状态、代码与真实验收"
+  default_prompt: "使用 $apple-hig-engineering，按目标 Apple 平台完成设计、实现和证据化验收。"
+
+policy:
+  allow_implicit_invocation: true
